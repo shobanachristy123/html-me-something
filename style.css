@@ -1,0 +1,33 @@
+.para-alignment {
+	border: 1px solid black;
+  	margin-top: 10px;
+  	margin-bottom: 10px;
+  	margin-right: 15px;
+  	margin-left: 0px;
+}
+.pink-paragraph {
+  font-size: 20px;
+  background-color: pink;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.yellow-paragraph {
+  font-size: 20px;
+  background-color: #CFCF6F;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.blue-paragraph{
+  font-size: 20px;
+  background-color: #BAD0D5;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
